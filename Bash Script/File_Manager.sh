@@ -76,11 +76,11 @@ done
 mv_file() {
     local file="$1"
     local destination="$2"
-
+    local fileNAME=$(basename "$file")
     mv "$file" "$destination"
     if [ $? -eq 0 ]; then
         echo "|-- $(basename "$destination")/"
-        echo "|   |-- $file to $destination"
+        echo "|   |--" "$fileNAME" "to" "$destination"
     else
         echo "Error: Failed to move '$file' to '$destination'"
     fi
@@ -96,4 +96,3 @@ fi
 
 # Call the organize_files function with the specified directory
 organize_files "$directory"
-
