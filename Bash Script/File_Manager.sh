@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Function to organize files in a directory
-organize_files() {
+main() {
     local directory="$1"
     local This_File_Name=$BASH_SOURCE
 
@@ -94,5 +94,5 @@ else
     directory="$1"
 fi
 
-# Call the organize_files function with the specified directory
-organize_files "$directory"
+# Call the main function with the specified directory
+main "$directory"
