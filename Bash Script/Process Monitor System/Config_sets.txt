@@ -1,6 +1,0 @@
-# Configuration variables
-MEM_MIN=0.3
-MEM_MAX=3
-CPU_MIN=0.2
-CPU_MAX=3
-REFRESH_TIME=10
