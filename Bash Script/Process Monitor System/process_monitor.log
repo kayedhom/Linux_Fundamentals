@@ -1,0 +1,33 @@
+2024-03-09 13:08:25 - Configuration change: Minimum memory usage limit changed to 1%
+2024-03-09 13:12:37 - Configuration change: Minimum memory usage limit changed to 1%
+2024-03-09 13:13:08 - Configuration change: Minimum memory usage limit changed to 1%
+2024-03-09 13:21:22 - Configuration change: Minimum memory usage limit changed to 1%
+2024-03-09 13:25:43 - Configuration change: Refresh rate changed to 10 seconds
+2024-03-09 13:29:55 - Configuration change: Refresh rate changed to 10 seconds
+2024-03-09 13:32:40 - Configuration change: Refresh rate changed to 10 seconds
+2024-03-09 13:33:12 - Configuration change: Refresh rate changed to 10 seconds
+2024-03-09 13:33:19 - Configuration change: Refresh rate changed to 10 seconds
+2024-03-09 13:34:44 - Configuration change: Refresh rate changed to 10 seconds
+2024-03-09 13:40:32 - Configuration change: Refresh rate changed to 10 seconds
+2024-03-09 13:40:59 - Configuration change: Refresh rate changed to 10 seconds
+2024-03-09 13:42:20 - Configuration change: Refresh rate changed to 10 seconds
+2024-03-09 13:43:25 - Configuration change: Refresh rate changed to 10 seconds
+2024-03-09 22:05:28 - Configuration change: Cpu Alert usage threshold changed to 1%
+2024-03-09 22:05:45 - Configuration change: Cpu Alert usage threshold changed to 1%
+2024-03-09 22:06:37 - Configuration change: Minimum memory usage limit changed to 1%
+2024-03-09 22:07:31 - Configuration change: Cpu Alert usage threshold changed to 1%
+2024-03-09 22:07:41 - Configuration change: Memory Alert usage threshold changed to 5%
+2024-03-09 22:08:52 - Process with PID 3 terminated: root           3       2  0.0  0.0 rcu_gp
+2024-03-09 22:09:04 - Configuration change: Memory Alert usage threshold changed to 10%
+2024-03-09 22:09:16 - Configuration change: Cpu Alert usage threshold changed to 50%
+2024-03-09 22:11:49 - Configuration change: Refresh rate changed to 5 seconds
+2024-03-09 22:11:55 - Configuration change: Minimum CPU usage limit changed to 0.1%
+2024-03-09 22:12:01 - Configuration change: Minimum memory usage limit changed to 2%
+2024-03-09 22:12:09 - Configuration change: Cpu Alert usage threshold changed to 15%
+2024-03-09 22:12:39 - Configuration change: Memory Alert usage threshold changed to 18%
+2024-03-09 22:12:51 - Configuration change: Memory Alert usage threshold changed to 18%
+2024-03-09 22:13:57 - Configuration change: Memory Alert usage threshold changed to 60%
+2024-03-09 22:14:08 - Configuration change: Cpu Alert usage threshold changed to 34%
+2024-03-09 22:14:41 - Configuration change: Cpu Alert usage threshold changed to 35%
+2024-03-09 22:16:06 - Configuration change: Cpu Alert usage threshold changed to 16%
+2024-03-09 22:16:10 - Configuration change: Memory Alert usage threshold changed to 30%
