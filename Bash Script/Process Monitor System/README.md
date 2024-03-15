@@ -69,18 +69,18 @@ To use the Process Monitor System in your project, follow these steps:
 - Below are the sample links for testing the Process Monitor System:
 
 
-![Startup main](https://drive.google.com/file/d/1uP5vAgP8nzEirU9ds9dKwTlFdplQzmVd/view?usp=drive_link)
+![Startup main](https://drive.google.com/uc?export=view&id=1uP5vAgP8nzEirU9ds9dKwTlFdplQzmVd)
 
-![Display Configurations](https://drive.google.com/file/d/1BFw_x59DHa0Uta_12MFJ8GCTe-d85hxg/view?usp=drive_link)
+![Display Configurations](https://drive.google.com/uc?export=view&id=1BFw_x59DHa0Uta_12MFJ8GCTe-d85hxg)
 
-![Monitor Process](https://drive.google.com/file/d/1hxGZ2_9zrIoPN4fqHPIaNMOGLzn1caPd/view?usp=drive_link)
+![Monitor Process](https://drive.google.com/uc?export=view&id=1hxGZ2_9zrIoPN4fqHPIaNMOGLzn1caPd)
 
-![Filter Process by user](https://drive.google.com/file/d/1zs0aVjDggNNyn2SpwWzAmeIqT2iQV2yA/view?usp=drive_link)
+![Filter Process by user](https://drive.google.com/uc?export=view&id=1zs0aVjDggNNyn2SpwWzAmeIqT2iQV2yA)
 
-![Changing Configuration](https://drive.google.com/file/d/1UkmZn1UvFUBpFhS8ZuscVbAgC4CgyBeg/view?usp=drive_link)
+![Changing Configuration](https://drive.google.com/uc?export=view&id=1UkmZn1UvFUBpFhS8ZuscVbAgC4CgyBeg)
 
 
-![Rewrite Config file in Runtime]([https://drive.google.com/file/d/1wf0cB1nsbTFAiwl4bKARKt-zJPObP9qD/view?usp=drive_link](https://drive.google.com/file/d/1wf0cB1nsbTFAiwl4bKARKt-zJPObP9qD/preview))
+![Rewrite Config file in Runtime](https://drive.google.com/uc?export=view&id=1wf0cB1nsbTFAiwl4bKARKt-zJPObP9qD)
 
 
 ## Authors
