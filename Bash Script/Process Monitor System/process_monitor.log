@@ -31,3 +31,5 @@
 2024-03-09 22:14:41 - Configuration change: Cpu Alert usage threshold changed to 35%
 2024-03-09 22:16:06 - Configuration change: Cpu Alert usage threshold changed to 16%
 2024-03-09 22:16:10 - Configuration change: Memory Alert usage threshold changed to 30%
+2024-03-15 15:36:09 - Configuration change: Refresh rate changed to 12 seconds
+2024-03-15 17:15:58 - Configuration change: Refresh rate changed to 10 seconds

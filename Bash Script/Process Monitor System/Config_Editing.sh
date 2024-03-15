@@ -191,8 +191,8 @@ Config_Print_Animation() {
     printf "%-10s %-10s %-10s %-10s %-10s\n" "Memory Usage" "$MEM_MIN%" "$MEM_MAX%" "0 <= MEM_MIN < MEM_MAX <= 100" ""
     
     printf "\n\n\r%s Refresh Rate Display System statistics $REFRESH_TIME sec."
-    printf "\n\n\r%s Cpu Alert usage threshold $CPU_ALERT_THRESHOLD %."
-    printf "\n\n\r%s Memory Alert usage threshold $MEMORY_ALERT_THRESHOLD %."
+    printf "\n\n\r%s Cpu Alert usage threshold $CPU_ALERT_THRESHOLD "
+    printf "\n\n\r%s Memory Alert usage threshold $MEMORY_ALERT_THRESHOLD "
     echo -e "\n\n"
 }
 

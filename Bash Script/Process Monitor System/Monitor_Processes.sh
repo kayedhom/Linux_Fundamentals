@@ -47,7 +47,7 @@ display_processes() {
             fi
             # Option D: Print only for process cpu usage between ($CPU_MIN & $CPU_MAX)
             if [ "$1" = "D" ]; then
-                if (( $cpu < $CPU_MIN || $cpu > $CPU_MAX )); then
+                if (( $(echo "$cpu < $CPU_MIN || $cpu > $CPU_MAX" | bc -l) )); then
                     continue
                 fi
             fi
