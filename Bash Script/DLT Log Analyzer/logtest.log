@@ -1,0 +1,10 @@
+Apr  6 08:44:03 kayed-Inspiron-5559 rtkit-daemon[1142]: Supervising 6 threads of 3 processes of 1 users.
+Apr  6 08:44:03 kayed-Inspiron-5559 snapd[830]: backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)
+Apr  6 08:44:03 kayed-Inspiron-5559 canonical-livepatch.canonical-livepatchd[1242]: update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot open directory "/usr/local": permission denied
+Apr  6 08:44:03 kayed-Inspiron-5559 kernel: [   91.363508] audit: type=1400 audit(1712385843.444:69): apparmor="DENIED" operation="open" class="file" profile="snap-update-ns.canonical-livepatch" name="/usr/local/" pid=1242 comm="5" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+Apr  6 08:44:03 kayed-Inspiron-5559 canonical-livepatch.canonical-livepatchd[1242]: update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+Apr  6 08:44:03 kayed-Inspiron-5559 canonical-livepatch.canonical-livepatchd[1242]: update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+Apr  6 08:44:03 kayed-Inspiron-5559 systemd[1]: Started Snap Daemon.
+Apr  6 08:44:03 kayed-Inspiron-5559 dbus-daemon[803]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.40' (uid=0 pid=830 comm="/usr/lib/snapd/snapd " label="unconfined")
+Apr  6 08:44:03 kayed-Inspiron-5559 systemd[1]: Starting Wait until snapd is fully seeded...
+Apr  6 08:44:04 kayed-Inspiron-5559 systemd[1]: Starting Time & Date Service...
