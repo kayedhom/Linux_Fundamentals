@@ -3,7 +3,7 @@
 ** Errors:** A total of 13 errors were found.
 ** Warnings:** A total of 6 warnings were found.
 ** Debug:** A total of 27 debug events were found.
-** Info:** A total of 1147 info events were found.
+** Info:** A total of 400 info events were found.
 
 ** System Events **
 ------------------

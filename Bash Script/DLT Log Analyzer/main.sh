@@ -4,6 +4,9 @@ source global_vars.sh
 source check.sh
 source report.sh
 
+
+
+
 # Function to extract and print log information
 DLT_extract_log_info() {
     local log_file="$1"
