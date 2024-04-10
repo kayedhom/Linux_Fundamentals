@@ -70,7 +70,7 @@ To use the DLT log analyzer in your project, follow these steps:
 
 ![Warning and Error Summary](https://drive.google.com/uc?export=view&id=1lH9m55CvMfEIcyam22oIxBr0ymVB3HMq)
 
-![Filter logs by log level](hhttps://drive.google.com/uc?export=view&id=1-Q0-3Pm2zVhDiz8e8ZDEWUMsF5R1LML3)
+![Filter logs by log level](https://drive.google.com/uc?export=view&id=1-Q0-3Pm2zVhDiz8e8ZDEWUMsF5R1LML3)
 
 ![Summarized Report](https://drive.google.com/uc?export=view&id=1tLh-1uMbVDlIlGl1BKIk-6-kllNO4kzF)
 
