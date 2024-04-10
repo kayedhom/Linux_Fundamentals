@@ -103,7 +103,3 @@ For more information on configuring the Process Monitor System, refer to the doc
 ## Support
 
 For any questions or support, please contact [Baraa Adel](mailto:braaadel78@gmail.com).
-
----
-
-This README provides an overview of the Process Monitor System, its features, usage instructions, and configuration details. Feel free to customize it further based on your specific project requirements. Let me know if you need any further assistance!
