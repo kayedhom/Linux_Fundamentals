@@ -1,0 +1,126 @@
+[2024-04- 6 08:43:47] INFO startup complete
+[2024-04- 6 08:43:47] INFO Finished Network Manager Wait Online.
+[2024-04- 6 08:43:47] INFO Reached target Network is Online.
+[2024-04- 6 08:43:47] ERROR Started Download data for packages that failed at package install time.
+[2024-04- 6 08:43:47] INFO Started Check to see whether there is a new version of Ubuntu available.
+[2024-04- 6 08:43:47] INFO Reached target Timer Units.
+[2024-04- 6 08:43:47] INFO Started Make remote CUPS printers available locally.
+[2024-04- 6 08:43:47] DEBUG Starting Tool to automatically collect and submit kernel crash signatures...
+[2024-04- 6 08:43:47] DEBUG Starting Postfix Mail Transport Agent (instance -)...
+[2024-04- 6 08:43:47] WARNING Condition check resulted in Ubuntu Pro Background Auto Attach being skipped.
+[2024-04- 6 08:43:47] INFO Started crash report submission.
+[2024-04- 6 08:43:47] INFO state changed new lease
+[2024-04- 6 08:43:47] DEBUG Found left-over process 1068 (kerneloops) in control group while starting unit. Ignoring.
+[2024-04- 6 08:43:47] INFO This usually indicates unclean termination of a previous run, or service implementation deficiencies.
+[2024-04- 6 08:43:48] INFO Started Tool to automatically collect and submit kernel crash signatures.
+[2024-04- 6 08:43:48] INFO NetworkManager state is now CONNECTED_GLOBAL
+[2024-04- 6 08:43:48] INFO /var/lock/whoopsie/lock
+[2024-04- 6 08:43:48] INFO Deactivated successfully.
+[2024-04- 6 08:43:48] DEBUG Registering new address record for fdd4:6ba6:7562:1200:4f22:d882:c169:5cef on wlp2s0.*.
+[2024-04- 6 08:43:49] WARNING not supported by any plugin
+[2024-04- 6 08:43:49] WARNING not supported by any plugin
+[2024-04- 6 08:43:50] DEBUG Starting
+[2024-04- 6 08:43:50] INFO Deactivated successfully.
+[2024-04- 6 08:43:50] INFO Finished Rotate log files.
+[2024-04- 6 08:43:52] INFO Queued start job for default target Main User Target.
+[2024-04- 6 08:43:52] INFO Created slice User Application Slice.
+[2024-04- 6 08:43:52] INFO Created slice User Core Session Slice.
+[2024-04- 6 08:43:52] INFO Started Pending report trigger for Ubuntu Report.
+[2024-04- 6 08:43:52] INFO Reached target Paths.
+[2024-04- 6 08:43:52] INFO Reached target Timers.
+[2024-04- 6 08:43:52] DEBUG Starting D-Bus User Message Bus Socket...
+[2024-04- 6 08:43:52] DEBUG Listening on GnuPG network certificate management daemon.
+[2024-04- 6 08:43:52] DEBUG Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+[2024-04- 6 08:43:52] DEBUG Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+[2024-04- 6 08:43:52] DEBUG Listening on GnuPG cryptographic agent (ssh-agent emulation).
+[2024-04- 6 08:43:52] DEBUG Listening on GnuPG cryptographic agent and passphrase cache.
+[2024-04- 6 08:43:52] DEBUG Listening on PipeWire Multimedia System Socket.
+[2024-04- 6 08:43:52] DEBUG Listening on debconf communication socket.
+[2024-04- 6 08:43:52] DEBUG Listening on Sound System.
+[2024-04- 6 08:43:52] DEBUG Listening on REST API socket for snapd user session agent.
+[2024-04- 6 08:43:52] DEBUG Listening on Speech Dispatcher Socket.
+[2024-04- 6 08:43:52] DEBUG Listening on D-Bus User Message Bus Socket.
+[2024-04- 6 08:43:52] INFO Reached target Sockets.
+[2024-04- 6 08:43:52] INFO Reached target Basic System.
+[2024-04- 6 08:43:52] INFO Started User Manager for UID 128.
+[2024-04- 6 08:43:52] INFO Started PipeWire Multimedia Service.
+[2024-04- 6 08:43:52] INFO Started Session c1 of User gdm.
+[2024-04- 6 08:43:52] INFO Started PipeWire Media Session Manager.
+[2024-04- 6 08:43:52] DEBUG Starting Sound Service...
+[2024-04- 6 08:43:52] INFO Started Service for snap application snapd-desktop-integration.snapd-desktop-integration.
+[2024-04- 6 08:43:52] INFO Started D-Bus User Message Bus.
+[2024-04- 6 08:43:52] INFO Started Disk Manager.
+[2024-04- 6 08:43:52] INFO Acquired the name org.freedesktop.UDisks2 on the system message bus
+[2024-04- 6 08:43:53] INFO service name='org.freedesktop.RealtimeKit1' unit='rtkit-daemon.service' requested by ':1.30' (uid=128 pid=1126 comm="/usr/bin/pipewire-media-session " label="unconfined")
+[2024-04- 6 08:43:53] DEBUG Starting RealtimeKit Scheduling Policy Service...
+[2024-04- 6 08:43:53] INFO [system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+[2024-04- 6 08:43:53] INFO Successfully called chroot.
+[2024-04- 6 08:43:53] INFO Successfully dropped privileges.
+[2024-04- 6 08:43:53] INFO Started RealtimeKit Scheduling Policy Service.
+[2024-04- 6 08:43:53] INFO Successfully limited resources.
+[2024-04- 6 08:43:53] DEBUG Running.
+[2024-04- 6 08:43:53] INFO Supervising 0 threads of 0 processes of 0 users.
+[2024-04- 6 08:43:53] DEBUG Watchdog thread running.
+[2024-04- 6 08:43:53] DEBUG Canary thread running.
+[2024-04- 6 08:43:58] INFO [session uid=128 pid=1137] AppArmor D-Bus mediation is enabled
+[2024-04- 6 08:43:59] INFO Successfully made thread 1127 of process 1127 owned by '128' high priority at nice level -11.
+[2024-04- 6 08:43:59] INFO Supervising 1 threads of 1 processes of 1 users.
+[2024-04- 6 08:43:59] INFO Successfully made thread 1125 of process 1125 owned by '128' high priority at nice level -11.
+[2024-04- 6 08:43:59] INFO Supervising 2 threads of 2 processes of 1 users.
+[2024-04- 6 08:43:59] INFO [ Supervising 2 threads of 2 processes of 1 users.]
+[2024-04- 6 08:43:59] INFO Successfully made thread 1156 of process 1126 owned by '128' RT at priority 20.
+[2024-04- 6 08:43:59] INFO Supervising 3 threads of 3 processes of 1 users.
+[2024-04- 6 08:43:59] INFO Supervising 3 threads of 3 processes of 1 users.
+[2024-04- 6 08:43:59] INFO Successfully made thread 1164 of process 1125 owned by '128' RT at priority 20.
+[2024-04- 6 08:43:59] INFO Supervising 4 threads of 3 processes of 1 users.
+[2024-04- 6 08:44:00] INFO Deactivated successfully.
+[2024-04- 6 08:44:01] INFO Acquiring state lock file
+[2024-04- 6 08:44:01] INFO Acquired state lock file
+[2024-04- 6 08:44:01] INFO service name='org.freedesktop.portal.Documents' unit='xdg-document-portal.service' requested by ':1.5' (uid=128 pid=1128 comm="/usr/bin/snap run snapd-desktop-integration " label="unconfined")
+[2024-04- 6 08:44:01] DEBUG Starting flatpak document portal service...
+[2024-04- 6 08:44:01] ERROR apparmor="DENIED" operation="capable" class="cap" profile="/snap/snapd/21184/usr/lib/snapd/snap-confine" pid=949 comm="snap-confine" capability=12  capname="net_admin"
+[2024-04- 6 08:44:01] ERROR apparmor="DENIED" operation="capable" class="cap" profile="/snap/snapd/21184/usr/lib/snapd/snap-confine" pid=949 comm="snap-confine" capability=38  capname="perfmon"
+[2024-04- 6 08:44:01] INFO started snapd/2.61.2 (series 16; classic) ubuntu/22.04 (amd64) linux/6.5.0-25-generic.
+[2024-04- 6 08:44:01] WARNING detected capacity change from 0 to 8
+[2024-04- 6 08:44:01] INFO Deactivated successfully.
+[2024-04- 6 08:44:01] INFO adjusting startup timeout by 1m30s (pessimistic estimate of 30s plus 5s per snap)
+[2024-04- 6 08:44:01] INFO Deactivated successfully.
+[2024-04- 6 08:44:01] DEBUG Starting with guard context "default"
+[2024-04- 6 08:44:01] INFO Signaled readiness to systemd
+[2024-04- 6 08:44:01] INFO Started Anonymizing overlay network for TCP.
+[2024-04- 6 08:44:01] INFO service name='org.freedesktop.impl.portal.PermissionStore' unit='xdg-permission-store.service' requested by ':1.6' (uid=128 pid=1203 comm="/usr/libexec/xdg-document-portal " label="unconfined")
+[2024-04- 6 08:44:02] DEBUG Starting sandboxed app permission store...
+[2024-04- 6 08:44:02] INFO [session uid=128 pid=1137] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+[2024-04- 6 08:44:02] INFO Started sandboxed app permission store.
+[2024-04- 6 08:44:02] INFO [session uid=128 pid=1137] Successfully activated service 'org.freedesktop.portal.Documents'
+[2024-04- 6 08:44:02] INFO Started flatpak document portal service.
+[2024-04- 6 08:44:02] ERROR apparmor="DENIED" operation="capable" class="cap" profile="/snap/snapd/21184/usr/lib/snapd/snap-confine" pid=1128 comm="snap-confine" capability=12  capname="net_admin"
+[2024-04- 6 08:44:02] ERROR apparmor="DENIED" operation="capable" class="cap" profile="/snap/snapd/21184/usr/lib/snapd/snap-confine" pid=1128 comm="snap-confine" capability=38  capname="perfmon"
+[2024-04- 6 08:44:02] INFO Deactivated successfully.
+[2024-04- 6 08:44:02] ERROR assertion 'error == NULL || *error == NULL' failed
+[2024-04- 6 08:44:02] ERROR assertion 'error == NULL || *error == NULL' failed
+[2024-04- 6 08:44:02] ERROR assertion 'error == NULL || *error == NULL' failed
+[2024-04- 6 08:44:02] ERROR assertion 'error == NULL || *error == NULL' failed
+[2024-04- 6 08:44:03] INFO Supervising 4 threads of 3 processes of 1 users.
+[2024-04- 6 08:44:03] INFO Successfully made thread 1414 of process 1127 owned by '128' RT at priority 5.
+[2024-04- 6 08:44:03] INFO Supervising 5 threads of 3 processes of 1 users.
+[2024-04- 6 08:44:03] INFO Supervising 5 threads of 3 processes of 1 users.
+[2024-04- 6 08:44:03] INFO Successfully made thread 1416 of process 1127 owned by '128' RT at priority 5.
+[2024-04- 6 08:44:03] INFO Supervising 6 threads of 3 processes of 1 users.
+[2024-04- 6 08:44:03] INFO apparmor is enabled and all features are available (using snapd provided apparmor_parser)
+[2024-04- 6 08:44:03] ERROR permission denied
+[2024-04- 6 08:44:03] ERROR apparmor="DENIED" operation="open" class="file" profile="snap-update-ns.canonical-livepatch" name="/usr/local/" pid=1242 comm="5" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+[2024-04- 6 08:44:03] WARNING cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+[2024-04- 6 08:44:03] WARNING cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+[2024-04- 6 08:44:03] INFO Started Snap Daemon.
+[2024-04- 6 08:44:03] INFO service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.40' (uid=0 pid=830 comm="/usr/lib/snapd/snapd " label="unconfined")
+[2024-04- 6 08:44:03] DEBUG Starting Wait until snapd is fully seeded...
+[2024-04- 6 08:44:04] DEBUG Starting Time & Date Service...
+[2024-04- 6 08:44:04] INFO [system] Successfully activated service 'org.freedesktop.timedate1'
+[2024-04- 6 08:44:04] INFO Started Time & Date Service.
+[2024-04- 6 08:44:04] INFO Sorry, home directories outside of /home needs configuration.
+[2024-04- 6 08:44:04] INFO See https://forum.snapcraft.io/t/11209 for details.
+[2024-04- 6 08:44:04] ERROR Main process exited, code=exited, status=1/FAILURE
+[2024-04- 6 08:44:04] ERROR Failed with result 'exit-code'.
+[2024-04- 6 08:44:04] INFO Consumed 1.961s CPU time.
+[2024-04- 6 08:44:04] INFO Finished Wait until snapd is fully seeded.
