@@ -1,7 +1,3 @@
-Thank you for providing the Bash files for your project. Based on the provided files, I will now create a README file for your Bash project.
-
----
-
 # Process Monitor System
 
 ![Version](https://img.shields.io/badge/Version-1-brightgreen)
